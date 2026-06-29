@@ -1,0 +1,14 @@
+add main/raw/character/sonic.pac
+add main/raw/character/soniccyber.pac
+add main/raw/character/sonicT.pac
+add main/raw/character/supersonic.pac
+add main/raw/character/supersonic2.pac
+add main/raw/character/supersoniccyber.pac
+add main/raw/character/supersonicdamage.pac
+add main/raw/event/scene/zev_sp_riflebeast.pac
+add main/raw/event/scene/ev1150.pac
+add main/raw/event/scene/ev1520.pac
+add main/raw/event/scene/ev1770.pac
+add main/raw/event/scene/ev4080.pac
+add main/raw/event/scene/ev4110.pac
+add mod.ini
