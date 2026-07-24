@@ -1,8 +1,8 @@
 ## duck dealer fadel sonic completed
 
-###### Version 1.0
+###### Version 1.1
 
-* added cyber, super cyber, damaged ,ss2 for completion
+* added updated models for tails,knuckles and amy 
 
 
 
